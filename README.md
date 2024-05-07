@@ -36,24 +36,25 @@ In our dataset, we have collected information about various books, including the
 
 8. **Average Price by Rating Category:** Check books with a lower average price and their rating and books with an above-average price and their rating to check if lower than the average price gets the highest rating.
 
-  ![7a](https://github.com/alysahab/IPL-Players-and-Teams-Analysis/assets/125446376/6a2c877e-ee16-4abf-9726-621de824ba3c)
+    ![7a](https://github.com/alysahab/IPL-Players-and-Teams-Analysis/assets/125446376/6a2c877e-ee16-4abf-9726-621de824ba3c)
 
-  ![7b](https://github.com/alysahab/IPL-Players-and-Teams-Analysis/assets/125446376/0ec67a60-ab35-47d9-9e16-3d2064b6ef6f)
+    ![7b](https://github.com/alysahab/IPL-Players-and-Teams-Analysis/assets/125446376/0ec67a60-ab35-47d9-9e16-3d2064b6ef6f)
 
 Insights : Price above Average tends to get higher rating
 
 8. **Title Length and Price Relationship:** Explore if there is any relationship between book prices and the lengths of their titles to understand if longer or shorter titles tend to have different pricing.
 
 Less than average book price<br>
-![8a](https://github.com/alysahab/IPL-Players-and-Teams-Analysis/assets/125446376/5f7d51d8-cc43-42ab-8276-b21fd72f4983)
+   ![8a](https://github.com/alysahab/IPL-Players-and-Teams-Analysis/assets/125446376/5f7d51d8-cc43-42ab-8276-b21fd72f4983)
+   
 above then average book price<br>
-![8b](https://github.com/alysahab/IPL-Players-and-Teams-Analysis/assets/125446376/39b126fd-6a21-460b-a121-84b9b82361d8)
+   ![8b](https://github.com/alysahab/IPL-Players-and-Teams-Analysis/assets/125446376/39b126fd-6a21-460b-a121-84b9b82361d8)
 
 Insights : as both price above and lower average has almost similar title length on average
 
 ## Data Source
 
-The dataset used for this analysis was scraped from the [web] and contains information about various books, including their titles, prices, and ratings.
+The dataset used for this analysis was scraped from the [web](https://books.toscrape.com/) and contains information about various books, including their titles, prices, and ratings.
 
 ## Technologies Used
 
